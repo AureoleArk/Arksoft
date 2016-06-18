@@ -1,5 +1,6 @@
 # lists
 * ['u'] = User
+* ['s'] = Service [1.CorkBoard, 2.ArkShort, 3.ArkLive]
 
 # sublist
 ## ['u']['s'] = user status

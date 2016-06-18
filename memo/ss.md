@@ -6,3 +6,5 @@
 * 0 = not login
 * 1 = already login
 * 2 = error
+
+## ['u']['i'] = user id

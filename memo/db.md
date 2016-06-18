@@ -18,9 +18,15 @@
 
 ### type
 * user account type [0.Site account, 1.Google]
+ 
+### social_id
+* social login id (Default.'NO_SOCIAL')
 
 ### otp
 * Two Factor Authentication [0.off, 1.on]
+
+### otp_secret
+* Two Factor Authentication Secret (Default.'NO_OTP')
 
 ### status
 * Account status [0.disabled, 1.enabled, 2.warn, 3.banned]

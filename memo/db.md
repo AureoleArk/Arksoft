@@ -10,10 +10,10 @@
 ### hash
 * user password hash (crypt)
 
-### fast ip
+### fast_ip
 * user register ip
 
-### last ip
+### last_ip
 * last login ip
 
 ### type
@@ -31,7 +31,7 @@
 ### status
 * Account status [0.disabled, 1.enabled, 2.warn, 3.banned]
 
-### lastpage
+### last_page
 * User last my page [0.CorkBoard, 1.ArkShort, 2.ArkLive]
 
 ### parm

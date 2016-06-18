@@ -1,30 +1,33 @@
-## id
+#Arksoft
+## user
+
+### id
 * MySQL auto increment id
 
-## name
+### name
 * username (Max 16)
 
-## hash
+### hash
 * user password hash (crypt)
 
-## fast ip
+### fast ip
 * user register ip
 
-## last ip
+### last ip
 * last login ip
 
-## type
+### type
 * user account type [0.Site account, 1.Google]
 
-## otp
+### otp
 * Two Factor Authentication [0.off, 1.on]
 
-## status
+### status
 * Account status [0.disabled, 1.enabled, 2.warn, 3.banned]
 
-## lastpage
+### lastpage
 * User last my page [0.CorkBoard, 1.ArkShort, 2.ArkLive]
 
-## parm
+### parm
 * User permission [0.normal, 1.donater, 2.moderator, 3.developer]
 

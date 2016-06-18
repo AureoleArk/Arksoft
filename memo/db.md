@@ -1,5 +1,5 @@
-#Arksoft
-## user
+# DB: Arksoft
+## Table: user
 
 ### id
 * MySQL auto increment id

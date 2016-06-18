@@ -1,6 +1,8 @@
 # lists
+* ['e'] = Error [10. MySQL connect error]
 * ['u'] = User
 * ['s'] = Service [1.CorkBoard, 2.ArkShort, 3.ArkLive]
+* ['m'] = MySQL
 
 # sublist
 ## ['u']['s'] = user status
